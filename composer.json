@@ -1,0 +1,25 @@
+{
+      "name": "axelautiquet/0xfat-problems-solver",
+      "description": "Problems Solver for 0xf.at",
+      "autoload": {
+        "psr-0": {
+          "ProblemSolver": "src/"
+        }
+      },
+      "require": {
+        "symfony/console": "^3.0"
+      },
+      "keywords": [
+        "0xfat",
+        "solver",
+        "0xfat solver",
+        "0xf.at"
+      ],
+      "license": "MIT",
+      "authors": [
+        {
+          "name": "Axel Autiquet",
+          "email": "axel.autiquet@gmail.com"
+        }
+      ]
+}
